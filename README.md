@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Madonox
+- I am a Roblox developer, who also works with Javascript.
+- I can create many things, from frameworks to discord rank bots!
